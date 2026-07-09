@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi there 👋 I'm Thagooran
 
-<!--
-**thagooran/thagooran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder of **VEYLZ LTD** and a Full Stack Software Engineer based in the UK.
 
-Here are some ideas to get you started:
+I enjoy building scalable SaaS platforms, AI-powered applications and enterprise solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
+
+- Building VEYLZ
+- Laravel & Drupal Development
+- Python Automation
+- AI & MCP Servers
+- Cloud Infrastructure
+
+## 🛠 Tech Stack
+
+**Backend**
+- Laravel
+- Drupal
+- PHP
+- Python
+- Django
+- Node.js
+
+**Frontend**
+- React
+- Vue
+- JavaScript
+- TypeScript
+- Tailwind CSS
+
+**Database**
+- MySQL
+- PostgreSQL
+- Redis
+
+**Cloud & DevOps**
+- Docker
+- GitHub Actions
+- AWS
+- Linux
+- Cloudflare
+
+## 📫 Connect
+
+🌐 https://veylz.co.uk
