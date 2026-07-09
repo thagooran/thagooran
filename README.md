@@ -1,84 +1,113 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=Thagooran%20Subaskaran&fontSize=30&fontColor=111827&animation=fadeIn&color=gradient&desc=Full%20Stack%20Developer%20%7C%20Founder%20of%20VEYLZ%20%26%20TBL%20Tech&descSize=16&descAlignY=62" />
-</p>
-
 <div align="center">
 
-### 🚀 Building AI-powered SaaS, enterprise platforms and automation solutions
+# 👋 Hi, I'm Thagooran Subaskaran
 
-[![Website](https://img.shields.io/badge/Website-veylz.co.uk-2563eb?style=for-the-badge&logo=google-chrome&logoColor=white)](https://veylz.co.uk)
-[![GitHub](https://img.shields.io/badge/GitHub-thagooran-181717?style=for-the-badge&logo=github)](https://github.com/thagooran)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thagooran-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thagooran/)
+### 🚀 Founder of VEYLZ & TBL Tech
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=850&lines=Full+Stack+Software+Developer;Laravel+•+Drupal+•+Python+•+React;Building+AI-Powered+SaaS+Platforms;Enterprise+Web+Applications;Always+Learning+Something+New" />
+
+<br/>
+
+<a href="https://veylz.co.uk">
+  <img src="https://img.shields.io/badge/Website-veylz.co.uk-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://github.com/thagooran">
+  <img src="https://img.shields.io/badge/GitHub-thagooran-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/thagooran/">
+  <img src="https://img.shields.io/badge/LinkedIn-Thagooran-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# 💫 About Me
 
-- 🚀 Founder of **VEYLZ** & **TBL Tech**
-- 💼 Full Stack Software Developer
-- 🤖 Passionate about AI, automation and scalable cloud solutions
-- 🌍 Based in the United Kingdom
-- 💡 Always building products that solve real-world problems
+💼 Founder of **VEYLZ** & **TBL Tech**
+
+🚀 Building AI-powered SaaS products and enterprise software
+
+⚡ Full Stack Developer specialising in Laravel, Drupal, Python and React
+
+☁ Passionate about Cloud, Automation and AI
+
+🇬🇧 Based in the United Kingdom
 
 ---
 
-# ⚡ Tech Stack
+# 🛠 Tech Stack
 
 ### Backend
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Drupal](https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+<p>
+
+<img src="https://skillicons.dev/icons?i=php,laravel,python,django,cs,nodejs" />
+
+</p>
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,vue,js,ts,tailwind,html,css" />
+
+</p>
 
 ### Database
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,redis" />
+
+</p>
 
 ### DevOps & Cloud
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
+<p>
+
+<img src="https://skillicons.dev/icons?i=docker,aws,linux,githubactions,git,nginx" />
+
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
 ## 🧠 VEYLZ
-AI-powered SaaS platform for businesses.
+
+AI-powered SaaS platform helping businesses automate, scale and grow.
+
+---
 
 ## 🌐 Drupal & CiviCRM
-Enterprise websites, migrations and custom modules.
 
-## ⚙️ Laravel Applications
-Business systems, CRM platforms and automation.
+Enterprise Drupal development, migrations and custom modules.
+
+---
+
+## ⚙ Laravel Applications
+
+CRM systems, business platforms and automation tools.
+
+---
 
 ## 🤖 Python Automation
-ETL pipelines, reporting, APIs and AI workflows.
+
+ETL pipelines, reporting systems, APIs and AI integrations.
 
 ---
 
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=thagooran&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=thagooran&theme=github-dark-blue&hide_border=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=thagooran&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+
+<img width="49%" src="https://streak-stats.demolab.com?user=thagooran&theme=github-dark-blue&hide_border=true" />
+
 </p>
 
 ---
@@ -87,7 +116,7 @@ ETL pipelines, reporting, APIs and AI workflows.
 
 - 🤖 Artificial Intelligence
 - 🚀 SaaS Development
-- ☁️ Cloud Infrastructure
+- ☁ Cloud Infrastructure
 - 🔒 Cyber Security
 - ⚡ Automation
 - 📱 Modern Web Applications
@@ -96,15 +125,17 @@ ETL pipelines, reporting, APIs and AI workflows.
 
 # 📫 Connect
 
-- 🌐 https://veylz.co.uk
-- 💼 LinkedIn
-- 📧 hello@veylz.co.uk
+🌐 **Website:** https://veylz.co.uk
+
+💼 **LinkedIn:** https://www.linkedin.com/in/thagooran/
+
+📧 **Email:** hello@veylz.co.uk
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting!
 
 **Building the future, one commit at a time.**
 
