@@ -4,7 +4,7 @@
 
 ### 🚀 Founder of VEYLZ & TBL Tech
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=850&lines=Full+Stack+Software+Developer;Laravel+•+Drupal+•+Python+•+React;Building+AI-Powered+SaaS+Platforms;Enterprise+Web+Applications;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=850&lines=Full+Stack+Software+Developer;Laravel+%7C+Drupal+%7C+Python+%7C+React;Building+AI-Powered+SaaS+Platforms;Enterprise+Web+Applications;Always+Learning+Something+New" />
 
 <br/>
 
