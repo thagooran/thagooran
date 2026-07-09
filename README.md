@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=gradient&text=Thagooran%20Subaskaran&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=gradient&text=Thagooran%20Subaskaran&fontSize=42&fontColor=f34ffff&animation=fadeIn" />
 </p>
 
 <div align="center">
