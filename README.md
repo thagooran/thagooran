@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hi,%20I'm%20Thagooran&fontAlign=50&fontAlignY=38&color=0:2563eb,100:7c3aed" />
+</p>
 <div align="center">
 
 # 👋 Hi, I'm Thagooran
