@@ -1,35 +1,30 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hi,%20I'm%20Thagooran&fontAlign=50&fontAlignY=38&color=0:2563eb,100:7c3aed" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:2563eb,50:7c3aed,100:ec4899&text=Thagooran%20Subaskaran&fontSize=42&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Founder%20of%20VEYLZ%20%26%20TBL%20Tech&descSize=18&descAlign=50&descAlignY=58" />
 </p>
+
 <div align="center">
 
-# 👋 Hi, I'm Thagooran
+### 🚀 Building AI-powered SaaS, enterprise platforms and automation solutions
 
-### Full Stack Developer • Founder of VEYLZ & TBL Tech
-
-Building modern SaaS platforms, AI solutions and enterprise applications.
-
-<p>
-  <a href="https://veylz.co.uk">🌐 Website</a> •
-  <a href="https://github.com/thagooran">GitHub</a> •
-  <a href="https://www.linkedin.com/in/thagooran/">LinkedIn</a>
-</p>
+[![Website](https://img.shields.io/badge/Website-veylz.co.uk-2563eb?style=for-the-badge&logo=google-chrome&logoColor=white)](https://veylz.co.uk)
+[![GitHub](https://img.shields.io/badge/GitHub-thagooran-181717?style=for-the-badge&logo=github)](https://github.com/thagooran)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thagooran-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/thagooran/)
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 👨‍💻 About Me
 
-- 💼 Founder of **VEYLZ** & **TBL Tech**
-- 🧠 Building AI-powered business platforms
-- 💻 Full Stack Developer with 10+ years of experience
-- ⚡ Passionate about automation, cloud and scalable systems
-- 🇬🇧 Based in the United Kingdom
+- 🚀 Founder of **VEYLZ** & **TBL Tech**
+- 💼 Full Stack Software Developer
+- 🤖 Passionate about AI, automation and scalable cloud solutions
+- 🌍 Based in the United Kingdom
+- 💡 Always building products that solve real-world problems
 
 ---
 
-## 🛠 Tech Stack
+# ⚡ Tech Stack
 
 ### Backend
 
@@ -38,82 +33,79 @@ Building modern SaaS platforms, AI solutions and enterprise applications.
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 
 ### Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Database
 
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### DevOps & Cloud
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🧠 VEYLZ
+## 🧠 VEYLZ
+AI-powered SaaS platform for businesses.
 
-AI-powered business platform designed to help companies build, automate and grow.
+## 🌐 Drupal & CiviCRM
+Enterprise websites, migrations and custom modules.
 
-### 🌐 Drupal & CiviCRM
+## ⚙️ Laravel Applications
+Business systems, CRM platforms and automation.
 
-Enterprise Drupal solutions, migrations and custom module development.
-
-### ⚙ Laravel SaaS
-
-Scalable CRM systems, business applications and automation platforms.
-
-### 🤖 Python Automation
-
-ETL pipelines, reporting, integrations and AI workflows.
+## 🤖 Python Automation
+ETL pipelines, reporting, APIs and AI workflows.
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-one-bice.vercel.app/api?username=thagooran&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=thagooran&layout=compact&theme=github_dark&hide_border=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=thagooran&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=thagooran&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---
 
-## 🔥 Current Focus
+# 🎯 Current Focus
 
 - 🤖 Artificial Intelligence
-- ☁ Cloud Infrastructure
 - 🚀 SaaS Development
+- ☁️ Cloud Infrastructure
 - 🔒 Cyber Security
 - ⚡ Automation
+- 📱 Modern Web Applications
 
 ---
 
-## 📫 Let's Connect
+# 📫 Connect
 
-🌐 https://veylz.co.uk
-
-💼 LinkedIn
-
-📧 hello@veylz.co.uk
+- 🌐 https://veylz.co.uk
+- 💼 LinkedIn
+- 📧 hello@veylz.co.uk
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting!
+### ⭐ Thanks for visiting my profile!
 
-*"Build. Automate. Scale."*
+**Building the future, one commit at a time.**
 
 </div>
