@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Thagooran%20Subaskaran&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Founder%20of%20VEYLZ%20%26%20TBL%20Tech&descAlignY=60" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:3B82F6,100:8B5CF6&text=Thagooran%20Subaskaran&fontSize=42&fontColor=ffffff" />
 </p>
 
 <div align="center">
